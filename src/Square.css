@@ -1,0 +1,47 @@
+
+.beforeclick{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    color: transparent;
+}
+.red{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+     
+}
+.green{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.yellow{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+.b1{
+    color: white;
+}
+.b2{
+    color: yellow;
+}
+.b3{
+    color: purple;
+}
+.bBig{
+    color: black;
+}
